@@ -5,10 +5,10 @@ IUT Paris Descartes - 2021 - Enseignant : BAUGUE Romain.
 Dans le cadre du cours de PHP, nous avons réalisé une interface de jeu de rôle.
 
 ## Auteurs
-DANG Mélanie
-ABOUDI Nadia
-NHAM Dang
-KAZEMI Fatemé
+DANG Mélanie,
+ABOUDI Nadia,
+NHAM Dang,
+KAZEMI Fatemé,
 
 ## Prise en main
 Commencez par télécharger le dossier du projet. Ensuite, connectez-vous sur votre serveur local.
